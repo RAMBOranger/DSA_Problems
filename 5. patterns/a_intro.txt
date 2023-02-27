@@ -1,0 +1,6 @@
+ imp patterns:
+
+1. diamond
+2. pascals triangle
+3. hollow diamond
+4. pyramid
